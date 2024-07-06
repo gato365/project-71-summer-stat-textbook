@@ -6,19 +6,29 @@
 1. **Verbs - dplyr** 
     - Main Functions: `filter()`, `select()`, `arrange()`, `mutate()`, `summarize()`
 2. **Grammar of Visualization - ggplot2**
-    - Main Functions: `ggplot()`, `geom_`, `theme()`, `geom_line()`, `geom_bar()`, `facet_wrap()`
+    - Main Functions: `ggplot()`, `geom_`, `stat_summary()`, `color and fill`, `facet`, `theme()`
 3. **ETV 1**
 4. **Joins & Binds**
+    - Main Functions: `left_join()`, `right_join()`, `inner_join()`, `full_join()`, `bind_rows()`, `bind_cols()`
 5. **Pivot Wider & Longer**
+    - Main Functions: `pivot_wider()`, `pivot_longer()`
 6. **ETV 2**
 7. **Forcats & Lubridate**
+    - 5 Main Functions: `fct_reorder()`, `fct_lump()`, `fct_rev()`, `fct_infreq()`, `fct_relevel()`
+    - 5 Main Functions: `ymd()`, `mdy()`, `dmy()`, `year()`, `month()`
 8. **Lubridate & String**
+    - 5 Main Functions: `str_detect()`, `str_replace_all()`, `str_remove_all()`, `str_extract()`, `str_glue()`
 9. **ETV 3**
 10. **Conditional Statements**
+    - `if`, `else`, `else if`, `which`, `switch`, `break`
 11. **Iterations**
+    - `for`, `while`, `repeat`, `next`, `break`
 12. **ETV 4**
 13. **Functions**
-14. **More dplyr**
+    - `function()`, `return()`, `...`
+14. **purrr**
+    - Main Functions: `map()`, `map2()`, `walk()`, `pmap()`, `reduce()`
+
 15. **ETV 5**
 
 ### STAT 252
